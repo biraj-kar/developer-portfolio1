@@ -1,0 +1,24 @@
+body{
+    font-family: 'Oswald', sans-serif;
+    body}
+    h1{
+        font-size: 50px;
+    }
+    .red-color{
+        color: red;
+    }
+    section{
+        display: flex;
+    }
+    .top-banner{
+        background-color:azure ;
+    }
+    .link-button{
+        text-decoration: none;
+        background-color: red;
+        padding:10px 40px;
+    
+    }
+    .half-width img{
+        width: 40%
+    }
